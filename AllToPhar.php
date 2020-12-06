@@ -1,8 +1,8 @@
 <?php
 
 /**
- * @name AllToSrc
- * @main AllToSrc\AllToSrc
+ * @name AllToPhar
+ * @main AllToPhar\AllToPhar
  * @author NeosPE
  * @version 0.1
  * @api 3.9.3
